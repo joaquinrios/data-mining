@@ -1,0 +1,6 @@
+"","rules","support","confidence","coverage","lift","count"
+"3061","{occupation=Other-service,hours-per-week=Full-time} => {workclass=Private}",0.0732361492158388,0.838686987104338,0.0873223864706605,1.20813867233381,3577
+"14831","{occupation=Other-service,capital-loss=none,hours-per-week=Full-time} => {workclass=Private}",0.0716391630154375,0.838284619070436,0.0854592359035257,1.20755905635104,3499
+"14828","{occupation=Other-service,capital-gain=None,hours-per-week=Full-time} => {workclass=Private}",0.0712706277384219,0.842449177153921,0.0845993202571557,1.21355815226071,3481
+"44799","{occupation=Other-service,capital-gain=None,capital-loss=none,hours-per-week=Full-time} => {workclass=Private}",0.0696736415380206,0.842118287552586,0.0827361696900209,1.21308150181807,3403
+"44828","{occupation=Other-service,race=White,capital-gain=None,capital-loss=none} => {workclass=Private}",0.061156381802547,0.833658945018141,0.0733589943081774,1.20089571735315,2987
